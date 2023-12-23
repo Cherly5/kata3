@@ -8,6 +8,5 @@ public class Main {
         MainFrame frame = new MainFrame();
         frame.histogramDisplay().show(histogram);
         frame.setVisible(true);
-
     }
 }
